@@ -1,0 +1,11 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:21
+msgid "Beauty and wisdom are seldom found together."
+msgstr ""
+
+#: /views/partials/format-visuals/websites.j2:45
+msgid "Better a new friend than an old foe."
+msgstr ""
+
+#: /views/partials/format-visuals/websites.j2:7
+msgid "People rejoice at the Sun, and I'm dreaming of the Moon."
+msgstr ""
