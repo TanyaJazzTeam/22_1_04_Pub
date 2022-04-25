@@ -36,7 +36,6 @@ Markdown é uma linguagem de marcação leve baseada nas convenções de formata
 
 > O objetivo primordial do design para a sintaxe de formatação do Markdown é torná-lo o mais legível possível. A ideia é que um documento formatado pelo Markdown seja publicável como está, como texto simples, sem parecer que foi marcado com tags ou instruções de formatação.
 
-Este texto que você vê aqui está *realmente* escrito em Markdown! Para ter uma ideia da sintaxe do Markdown, digite algum texto na janela esquerda e observe os resultados à direita.
 
 ### falso
 
