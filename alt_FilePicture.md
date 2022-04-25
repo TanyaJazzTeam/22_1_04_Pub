@@ -23,7 +23,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
   - Type some Markdown on the left
   - See HTML in the right
-  - {a0}Magic{/a0}
+  - Magic
 
 # true
 
