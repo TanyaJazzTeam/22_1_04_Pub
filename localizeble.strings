@@ -14,5 +14,6 @@
 "alert_change_language_title" = "Change language to";
 "alert_cancel" = "Cancel";
 "en" = "English";
+"de" = "true";
 "uk" = "false";
 "ar" = "true";
